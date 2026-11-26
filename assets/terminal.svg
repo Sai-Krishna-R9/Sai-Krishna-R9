@@ -38,7 +38,7 @@
     <g opacity="0">
       <animate attributeName="opacity" to="1" begin="6s" dur="0.1s" fill="freeze"/>
       <text x="30" y="323"><tspan fill="#D7263D">sai@krishna</tspan><tspan fill="#8A8D91">:~$ </tspan></text>
-      <rect x="262" y="305" width="12" height="22" fill="#D7263D">
+      <rect x="232" y="305" width="12" height="22" fill="#D7263D">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
       </rect>
     </g>
