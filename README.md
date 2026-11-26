@@ -6,22 +6,13 @@
 
 </div>
 
-```python
-class SaiKrishna:
-    name   = "P Sai Krishna Reddy"
-    study  = "B.Tech CSE, Quantum Computing (year 1)"
-    langs  = ["Python"]
-    status = "building Samvaad-Setu"
-
-    def curiosity(self):
-        return "unmeasured, so still in superposition"
-```
+<img src="assets/terminal.svg" alt="terminal" width="100%" />
 
 ---
 
 ## Now
 
-- **Building:** - **Building:** Samvaad-Setu, a computer vision project for Indian Sign Language (ISL). Just started.
+- **Building:** Samvaad-Setu, a computer vision project for Indian Sign Language (ISL). Just started.
 - **Learning:** Python, computer vision basics, and the maths behind qubits
 - **Open to:** feedback, study partners, beginner-friendly collaborations
 
